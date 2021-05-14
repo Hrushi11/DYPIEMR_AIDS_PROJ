@@ -19,7 +19,10 @@ To contribute to this repo you must be in Artificial Intelligence and Data Scien
 12. Aditya Tiwari - [@addy-star](https://github.com/addy-star)
 13. Aniket singh - [@aniket9763](https://github.com/aniket9763)
 14. Shubham Kambale - [@Shuboy742](https://github.com/Shuboy742)
-15. Krushna somwanshi -[@krushna19](https://github.com/krushna19)
+15. Shreya Dhumal - [@shreya833](https://github.com/shreya833)
+16. Dev Dave - [@devdave2002](https://github.com/devdave2002)
+17. Krushna Somwanshi - [@krushna19](https://github.com/krushna19)
+
 ### Steps to follow to contribute to this repository
 
 *You should be a student at DYPIEMR and in Artificial Intelligence and Data Science branch.*
