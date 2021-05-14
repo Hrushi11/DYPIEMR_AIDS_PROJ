@@ -19,6 +19,7 @@ To contribute to this repo you must be in Artificial Intelligence and Data Scien
 12. Aditya Tiwari - [@addy-star](https://github.com/addy-star)
 13. Aniket singh - [@aniket9763](https://github.com/aniket9763)
 14. Shubham Kambale - [@Shuboy742](https://github.com/Shuboy742)
+15. Shreya Dhumal - [@shreya833](https://github.com/shreya833)
 
 ### Steps to follow to contribute to this repository
 
