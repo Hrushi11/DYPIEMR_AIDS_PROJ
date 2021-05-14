@@ -1,5 +1,5 @@
 # DYPIEMR
-This repo is for students of Dr DY Patil Institute of Engineering Management and Research.
+This repo is for students of Dr. DY Patil Institute of Engineering Management and Research, Akurdi, Pune.
 This repo will contain all the projects done by the students.
 
 To contribute to this repo you must be in Artificial Intelligence and Data Science branch.
