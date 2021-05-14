@@ -21,7 +21,7 @@ To contribute to this repo you must be in Artificial Intelligence and Data Scien
 4. Open this `README.md` file and add yourself as a contributor to this repo.
 
 5. The basic way to add yourself as contributor is 
-   > `<Name> - <serial_no.> [<your_username>](<link_to_your_user_profile>)`
+   > `<serial_no.> <Name> -  [<your_username>](<link_to_your_user_profile>)`
 
 6. Put a Pull Request and if you satisfy all the conditions, Your PR will be accepted.
    
