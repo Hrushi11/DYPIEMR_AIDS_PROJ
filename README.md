@@ -18,7 +18,7 @@ To contribute to this repo you must be in Artificial Intelligence and Data Scien
 11. Anas Nadaf - [@anasnadaf](https://github.com/anasnadaf) 
 12. Aditya Tiwari - [@addy-star](https://github.com/addy-star)
 13. Aniket singh - [@aniket9763](https://github.com/aniket9763)
-14. Shubham Kambale-[@Shuboy742](https://github.com/Shuboy742)
+14. Shubham Kambale - [@Shuboy742](https://github.com/Shuboy742)
 
 ### Steps to follow to contribute to this repository
 
