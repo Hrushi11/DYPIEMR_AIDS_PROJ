@@ -15,7 +15,8 @@ To contribute to this repo you must be in Artificial Intelligence and Data Scien
 8. Ajinkya Ganesh Kumbhar - [@ajinkyak423](https://github.com/ajinkyak423)
 9. Biradar Sukanya- [@sukanya7777](https://github.com/sukanya7777)
 10. Aditya Nikam - [Aditya17103](https://github.com/Aditya17103)
-11. Anas Nadaf - [@anasnadaf](https://github.com/anasnadaf)
+11. Anas Nadaf - [@anasnadaf](https://github.com/anasnadaf) 
+12. Aditya Tiwari -[addy-star](https://github.com/addy-star)
 
 ### Steps to follow to contribute to this repository
 
