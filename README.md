@@ -13,6 +13,7 @@ To contribute to this repo you must be in Artificial Intelligence and Data Scien
 6. Pratik Pawar - [@Pratik-Pawar-88](https://github.com/Pratik-Pawar-88)
 7. Aniruddha Kulkarni - [@ani3006](https://github.com/ani3006)
 8. Ajinkya Ganesh Kumbhar - [@ajinkyak423](https://github.com/ajinkyak423)
+9. Biradar Sukanya- [@sukanya7777](https://github.com/sukanya7777)
 
 ### Steps to follow to contribute to this repository
 
