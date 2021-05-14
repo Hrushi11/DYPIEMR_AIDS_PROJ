@@ -7,6 +7,7 @@ To contribute to this repo you must be in Artificial Intelligence and Data Scien
 ## List of Contributors : <br>
 1. Hrushikesh Kachgunde - [@Hrushi11](https://github.com/Hrushi11)
 2. Shriraj Pawar - [@shrirajpawar4](https://github.com/shrirajpawar4)
+3. Parth Ashtikar - [@parthhh-a](https://github.com/parthhh-a)
 
 ### Steps to follow to contribute to this repository
 
