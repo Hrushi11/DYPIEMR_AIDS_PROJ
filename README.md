@@ -22,4 +22,4 @@ To contribute to this repo you must be in Artificial Intelligence and Data Scien
 6. The basic way to add yourself as contributor is 
    > `<Name> - <serial_no.> [<your_username>](<link_to_your_user_profile>)`
    
-#### PLEASE DON'T CHANGE ANY OTHER THINGS IF DONE SO YOUR PR WILL NOT BE ACCEPTED
+#### PLEASE DON'T CHANGE ANY OTHER THINGS, IF DONE, YOUR PR WILL NOT BE ACCEPTED.
