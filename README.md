@@ -12,7 +12,9 @@ To contribute to this repo you must be in Artificial Intelligence and Data Scien
 5. Amoksh Layane - [@amoksh9191](https://github.com/amoksh9191)
 6. Pratik Pawar - [@Pratik-Pawar-88](https://github.com/Pratik-Pawar-88)
 7. Aniruddha Kulkarni - [@ani3006](https://github.com/ani3006)
-8. Biradar Sukanya- [@sukanya7777](https://github.com/sukanya7777)
+8. Ajinkya Ganesh Kumbhar - [@ajinkyak423](https://github.com/ajinkyak423)
+9. Biradar Sukanya- [@sukanya7777](https://github.com/sukanya7777)
+
 ### Steps to follow to contribute to this repository
 
 *You should be a student at DYPIEMR and in Artificial Intelligence and Data Science branch.*
