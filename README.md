@@ -9,7 +9,7 @@ To contribute to this repo you must be in Artificial Intelligence and Data Scien
 
 ### Steps to follow to contribute to this repository
 
-1. You should be a student at DYPIEMR and Artificial Intelligence and Data Science branch.
+1. You should be a student at DYPIEMR and in Artificial Intelligence and Data Science branch.
 
 2. Fork this repository.
 
