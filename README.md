@@ -12,17 +12,58 @@ To contribute to this repo you must be in Artificial Intelligence and Data Scien
 
 ### Steps to follow to contribute to this repository
 
-1. You should be a student at DYPIEMR and in Artificial Intelligence and Data Science branch.
+*You should be a student at DYPIEMR and in Artificial Intelligence and Data Science branch.*
+   
+1. On the [GitHub page for this repository](https://github.com/Hrushi11/DYPIEMR_AIDS_PROJ), click on the Button "Fork".
 
-2. Fork this repository.
+   ![fork image](https://help.github.com/assets/images/help/repository/fork_button.jpg)
 
-3. Clone this repository to your local device.
+2. Clone _your forked repository_ to your computer:
 
-4. Open this `README.md` file and add yourself as a contributor to this repo.
+   ![code ui](https://docs.github.com/assets/images/help/repository/code-button.png)
 
-5. The basic way to add yourself as contributor is 
+    For example, run this command inside your terminal:
+
+    ```bash
+    git clone https://github.com/<your-github-username>/DYPIEMR_AIDS_PROJ.git
+    ```
+
+    **Replace \<your-github-username\>!**
+
+4. Before you make any changes,
+
+    ```bash
+    git remote add upstream https://github.com/Hrushi11/DYPIEMR_AIDS_PROJ.git
+    git pull upstream master
+    ```
+
+    If you run into a **merge conflict**, get yourself helped in the group.
+
+5. On your computer, open your text editor, and add your name to the `README.md` file. <br>
+   The basic way to add yourself as contributor is : 
    > `<serial_no.> <Name> -  [<your_username>](<link_to_your_user_profile>)`
 
-6. Put a Pull Request and if you satisfy all the conditions, Your PR will be accepted.
-   
+6. Add the changes with `git add`, `git commit`:
+
+    ```bash
+    git add README.md
+    git commit -m "Add <your-github-username>"
+    ```
+
+    **Replace \<your-github-username\>!**
+
+7. Push your changes _to your repository_:
+
+    ```bash
+    git push origin master
+    ```
+
+8. Go to the GitHub page of _your fork_, and make a pull request:
+
+    ![pull request image](https://help.github.com/assets/images/help/pull_requests/choose-base-and-compare-branches.png)
+
+9. Then, wait for your pull request to be accepted or, acknowledge in the group to get instant feedback.
+
 #### PLEASE DON'T CHANGE ANY OTHER THINGS, IF DONE, YOUR PR WILL NOT BE ACCEPTED.
+    
+    
