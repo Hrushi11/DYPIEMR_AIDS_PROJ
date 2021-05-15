@@ -3,6 +3,7 @@ This repo is for students of Dr. DY Patil Institute of Engineering Management an
 This repo will contain all the projects done by the students.
 
 To contribute to this repo you must be in Artificial Intelligence and Data Science branch.
+                                          ![Alt Text](https://media.giphy.com/media/l4pTsNgkamxfk2ZLq/giphy.gif)
 
 ## List of Contributors : <br>
 1. Hrushikesh Kachgunde - [@Hrushi11](https://github.com/Hrushi11)
@@ -29,6 +30,7 @@ To contribute to this repo you must be in Artificial Intelligence and Data Scien
 22. Sarvdnya Dhamale - [@Spd225](https://github.com/Spd225)
 23. Aishwarya Patil - [@Aishwarya-102](https://github.com/Aishwarya-102)
 24. Zaid Maniyar - [@zmaniyar](https://github.com/zmaniyar)
+25. Sunny Kumar - [@unnumsykar](https://github.com/unnumsykar)
 
 ### Steps to follow to contribute to this repository
 
