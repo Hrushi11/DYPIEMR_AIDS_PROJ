@@ -23,6 +23,7 @@ To contribute to this repo you must be in Artificial Intelligence and Data Scien
 16. Dev Dave - [@devdave2002](https://github.com/devdave2002)
 17. Krushna Somwanshi - [@krushna19](https://github.com/krushna19)
 18. Piyush Bhagat - [@piyushbhagat03](https://github.com/piyushbhagat03)
+19. Pranjal Chaudhari - [@PRANJAL2903](https://github.com/PRANJAL2903)
 
 ### Steps to follow to contribute to this repository
 
