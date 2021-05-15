@@ -10,6 +10,23 @@ To contribute to this repo you must be in Artificial Intelligence and Data Scien
 3. Parth Ashtikar - [@parthhh-a](https://github.com/parthhh-a)
 4. Aditya Bijapurkar - [@aditya-bijapurkar](https://github.com/aditya-bijapurkar)
 5. Amoksh Layane - [@amoksh9191](https://github.com/amoksh9191)
+6. Pratik Pawar - [@Pratik-Pawar-88](https://github.com/Pratik-Pawar-88)
+7. Aniruddha Kulkarni - [@ani3006](https://github.com/ani3006)
+8. Ajinkya Ganesh Kumbhar - [@ajinkyak423](https://github.com/ajinkyak423)
+9. Biradar Sukanya- [@sukanya7777](https://github.com/sukanya7777)
+10. Aditya Nikam - [@Aditya17103](https://github.com/Aditya17103)
+11. Anas Nadaf - [@anasnadaf](https://github.com/anasnadaf) 
+12. Aditya Tiwari - [@addy-star](https://github.com/addy-star)
+13. Aniket singh - [@aniket9763](https://github.com/aniket9763)
+14. Shubham Kambale - [@Shuboy742](https://github.com/Shuboy742)
+15. Shreya Dhumal - [@shreya833](https://github.com/shreya833)
+16. Dev Dave - [@devdave2002](https://github.com/devdave2002)
+17. Krushna Somwanshi - [@krushna19](https://github.com/krushna19)
+18. Piyush Bhagat - [@piyushbhagat03](https://github.com/piyushbhagat03)
+19. Pranjal Chaudhari - [@PRANJAL2903](https://github.com/PRANJAL2903)
+20. Suvam Kumar Verma - [@vksuvam](https://github.com/vksuvam)
+21. Prajwal Kulkarni - [@Prajwal-16](https://github.com/Prajwal-16)
+
 
 ### Steps to follow to contribute to this repository
 
