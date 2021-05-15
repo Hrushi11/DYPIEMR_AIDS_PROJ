@@ -14,6 +14,6 @@
    4. Create a Pull Request.
    
    
-   # Then your Done.
+   # Then you're Done.
   
    ![Alt Text](https://media.giphy.com/media/h2TWRTdkpNzGQ3Dh5s/giphy.gif)
