@@ -26,7 +26,7 @@ To contribute to this repo you must be in Artificial Intelligence and Data Scien
 19. Pranjal Chaudhari - [@PRANJAL2903](https://github.com/PRANJAL2903)
 20. Suvam Kumar Verma - [@vksuvam](https://github.com/vksuvam)
 21. Prajwal Kulkarni - [@Prajwal-16](https://github.com/Prajwal-16)
-
+22. Sarvdnya Dhamale - [@Spd225](https://github.com/Spd225)
 
 ### Steps to follow to contribute to this repository
 
