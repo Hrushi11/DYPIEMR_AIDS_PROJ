@@ -1,4 +1,4 @@
-## This is a simple maths library in python .
+## Mathematical and Scientific Calculation Library in Python.
 
 
 ### How to Contribute ?
