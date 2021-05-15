@@ -30,7 +30,8 @@ To contribute to this repo you must be in Artificial Intelligence and Data Scien
 22. Sarvdnya Dhamale - [@Spd225](https://github.com/Spd225)
 23. Aishwarya Patil - [@Aishwarya-102](https://github.com/Aishwarya-102)
 24. Zaid Maniyar - [@zmaniyar](https://github.com/zmaniyar)
-25. Sunny Kumar - [@unnumsykar](https://github.com/unnumsykar)
+25. Sakshi Shinde - [@sakshi0044](https://github.com/sakshi0044)
+26. Sunny Kumar - [@unnumsykar](https://github.com/unnumsykar)
 
 ### Steps to follow to contribute to this repository
 
