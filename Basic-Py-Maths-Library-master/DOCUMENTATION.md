@@ -7,6 +7,6 @@
              input-two numbers <br>
              output -returns the addition.
              
-3. `differnece()` - Subtracts two numbers.<br>
+3. `difference()` - Subtracts two numbers.<br>
                    input-two numbers <br>
                    output-retuns the difference.
