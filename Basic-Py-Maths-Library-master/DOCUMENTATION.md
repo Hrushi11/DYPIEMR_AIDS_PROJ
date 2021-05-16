@@ -1,7 +1,7 @@
 # UNDER CONSTRUCTION
 
 1. `isPrime()` - Checks for a prime number.<br>
-                 input - `n`, any integer <br>
+                 Input - `n`, any integer <br>
                  Output - boolean value
 
 2. `sum()` - Adds two numbers.<br>
