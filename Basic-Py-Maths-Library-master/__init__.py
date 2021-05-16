@@ -11,13 +11,13 @@ def isPrime(n):
         return 0
     
 def sum(a,b):
-'''
-Adds to numbers
-input: a, b - two numbers
-output: returns sum
-'''
-c=a+b
-return c
+    '''
+    Adds to numbers
+    input: a, b - two numbers
+    output: returns sum
+    '''
+    c=a+b
+    return c
 
 def difference(a,b):
    '''
