@@ -46,7 +46,8 @@ def fact_loop(num):
         return 1
     '''
     
-    
+    input :
+    output :
     '''
 
     factorial = 1
