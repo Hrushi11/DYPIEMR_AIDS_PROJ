@@ -19,6 +19,15 @@ output: returns sum
 c=a+b
 return c
 
+def difference(a,b):
+   '''
+   subtracts two numbers
+   input: a, b - two numbers
+   output: returns difference
+   '''
+   c=a-b
+   return c
+
 
 
 

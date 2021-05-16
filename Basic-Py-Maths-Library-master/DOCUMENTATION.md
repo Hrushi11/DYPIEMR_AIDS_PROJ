@@ -6,3 +6,7 @@
 2. `sum()` - Adds two numbers.<br>
              input-two numbers <br>
              output -returns the addition.
+             
+3.`differnece()` - Subtracts tw0 numbers.<br>
+                   input-two numbers <br>
+                   output-retuns the difference.
