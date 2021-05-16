@@ -39,7 +39,16 @@ def difference(a,b):
 
 ###############################
 
+def Fibonacci_Series(n):
+    # base case
+    if(n==0):
+        return 0
+    elif(n==1):
+        return 1
+    else:
+        return (Fibonacci_Series(n-2) + Fibonacci_Series(n-1))
 
+################################################################
 
 
 
