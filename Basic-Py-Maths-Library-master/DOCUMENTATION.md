@@ -4,5 +4,5 @@
                  input - `n` - any integer
 
 2. `sum()` - Adds two numbers.<br>
-             input-two numbers 
+             input-two numbers <br>
              output -returns the addition.
