@@ -11,3 +11,5 @@
 3. `difference()` - Subtracts two numbers.<br>
                    Input-two numbers <br>
                    Output-retuns the difference.
+
+4. `Fibonacci_Series()` - return Fibonacci Series
