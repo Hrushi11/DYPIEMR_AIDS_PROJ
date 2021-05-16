@@ -9,6 +9,17 @@ def isPrime(n):
         return 1
     else:
         return 0
+    
+def sum(a,b):
+'''
+Adds to numbers
+input: a, b - two numbers
+output: returns sum
+'''
+c=a+b
+return c
+
+
 
 
 
