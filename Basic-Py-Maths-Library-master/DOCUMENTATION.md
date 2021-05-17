@@ -23,3 +23,8 @@
 6. `MultiplyList`() -   multiplying the numbers in list<br>
                         input: list<br>
                         output: returns the multiplication<of numbers in given list.
+                        
+7. `exponent()` - finds the exponent<br>
+                  input:two numbers -base and index<br> 
+                  ouptut- base raised to the index.                    
+ 
