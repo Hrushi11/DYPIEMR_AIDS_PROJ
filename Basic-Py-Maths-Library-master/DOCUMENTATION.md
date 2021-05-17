@@ -13,3 +13,13 @@
                    Output-retuns the difference.
 
 4. `Fibonacci_Series()` - return Fibonacci Series
+
+
+5. `MultiplyTwoNumbers()` -  multiplying two numbers <br>
+                             input: a,b - two numbers<br>
+                             output: returns multiplication.
+   
+
+6. `MultiplyList`() -   multiplying the numbers in list<br>
+                        input: list<br>
+                        output: returns the multiplication<of numbers in given list.

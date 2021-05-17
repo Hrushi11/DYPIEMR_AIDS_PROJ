@@ -4,12 +4,12 @@ def isPrime(n):
     Input - `n`, any integer <br>
     Output - boolean value
     '''
-    c=0 
+    c=0
     for i in range(2,n):
         if n%i==0:
             c=c+1
-    
-    
+
+
     if c==0 and n!=1:
         return 1
     else:
@@ -50,7 +50,31 @@ def Fibonacci_Series(n):
 
 ###############################
 
+def MultiplyTwoNumbers(a,b):
+    """
+    multiplying two numbers
+    input: a,b - two numbers
+    output: returns multiplication
+    """
+    c = a*b
+    return c
 
+###############################
+
+def MultiplyList(myList):
+    """
+    multiplying the numbers in list
+    input: list
+    output: returns the multiplication
+            of numbers in given list
+    """
+    # Multiply elements one by one
+    result = 1
+    for x in myList:
+        result = result * x
+    return result
+
+################################
 
 
 
