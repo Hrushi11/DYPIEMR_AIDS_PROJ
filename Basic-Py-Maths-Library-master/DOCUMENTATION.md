@@ -20,6 +20,16 @@
                              output: returns multiplication.
    
 
-6. `MultiplyList`() -   multiplying the numbers in list<br>
+6. `MultiplyList()` -   multiplying the numbers in list<br>
                         input: list<br>
                         output: returns the multiplication<of numbers in given list.
+   
+
+7. `ConvertToDegree()` - Converts radian to degree<br>
+                         input: angel in radian<br>
+                         output: angel in degree.
+  
+ 
+8. `ConvertToRadian()` -  Converts degree to radian<br>
+                          input: angel in degree<br>
+                          output: angel in radian.

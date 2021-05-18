@@ -76,6 +76,34 @@ def MultiplyList(myList):
 
 ################################
 
+def ConvertToDegree(radian):
+    """
+    Converts radian to degree
+    input: angel in radian
+    output: angel in degree
+    """
+
+    radian = float(radian)
+    pi = 22/7
+    degree = float(radian * (180 / pi))
+    return degree
+
+################################
+
+def ConvertToRadian(degree):
+    """
+        Converts degree to radian
+        input: angel in degree
+        output: angel in radian
+        """
+    degree = float(degree)
+    pi = 22 / 7
+    radian = float(degree * (pi / 180))
+    return radian
+################################
+
+
+
 
 
 
