@@ -26,13 +26,13 @@
    
 
 7. `ConvertToDegree()` - Converts radian to degree<br>
-                         input: angel in radian<br>
-                         output: angel in degree.
+                         input: angle in radian<br>
+                         output: angle in degree.
   
  
 8. `ConvertToRadian()` -  Converts degree to radian<br>
-                          input: angel in degree<br>
-                          output: angel in radian.
+                          input: angle in degree<br>
+                          output: angle in radian.
                         
 9. `exponent()` - finds the exponent<br>
                   input:two numbers -base and index<br> 
