@@ -100,6 +100,21 @@ def ConvertToRadian(degree):
     pi = 22 / 7
     radian = float(degree * (pi / 180))
     return radian
+  
+################################
+
+def exponent(base, index):
+    '''
+    finds the exponent 
+    input:two numbers -base and index 
+    ouptut- base raised to the index
+    '''
+    if index == 0:
+        return 1
+    while index > 1:
+        x = base**index
+        return x
+
 ################################
 
 

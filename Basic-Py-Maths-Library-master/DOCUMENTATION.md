@@ -22,7 +22,7 @@
 
 6. `MultiplyList()` -   multiplying the numbers in list<br>
                         input: list<br>
-                        output: returns the multiplication<of numbers in given list.
+                        output: returns the multiplication<of numbers in given list
    
 
 7. `ConvertToDegree()` - Converts radian to degree<br>
@@ -33,3 +33,8 @@
 8. `ConvertToRadian()` -  Converts degree to radian<br>
                           input: angel in degree<br>
                           output: angel in radian.
+                        
+9. `exponent()` - finds the exponent<br>
+                  input:two numbers -base and index<br> 
+                  ouptut- base raised to the index.                    
+ 
