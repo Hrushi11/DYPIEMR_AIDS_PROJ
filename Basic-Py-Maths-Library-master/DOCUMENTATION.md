@@ -39,8 +39,8 @@
                   ouptut- base raised to the index. 
 
 10. `Perimeter(a,b,c)()` - Calculates the perimeter of triangle with user input sides()
-                           input: a,b,c
-                           output: perimeter of triangle
+input: a,b,c
+output: perimeter of triangle
                  
                  
                   
