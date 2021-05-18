@@ -117,6 +117,15 @@ def exponent(base, index):
 
 ################################
 
+a= int(input("Enter length of first side: \n"))
+b= int(input("Enter length of second side: \n"))
+c= int(input("Enter length of third side: \n"))
+def Perimeter(a,b,c):
+    return (a+b+c)
+print("The perimeter of triangle is", Perimeter(a,b,c))
+
+################################
+
 
 
 
