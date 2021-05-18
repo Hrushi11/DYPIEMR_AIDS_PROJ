@@ -22,6 +22,7 @@ To contribute to this repo you must be in Artificial Intelligence and Data Scien
 14. Shubham Kambale - [@Shuboy742](https://github.com/Shuboy742)
 15. Shreya Dhumal - [@shreya833](https://github.com/shreya833)
 16. Dev Dave - [@devdave2002](https://github.com/devdave2002)
+17. Sanjana Kolambe - [@ksanjana16](https://github.com/ksanjana16)
 18. Krushna Somwanshi - [@krushna19](https://github.com/krushna19)
 19. Piyush Bhagat - [@piyushbhagat03](https://github.com/piyushbhagat03)
 20. Pranjal Chaudhari - [@PRANJAL2903](https://github.com/PRANJAL2903)
@@ -34,7 +35,6 @@ To contribute to this repo you must be in Artificial Intelligence and Data Scien
 27. Sunny Kumar - [@unnumsykar](https://github.com/unnumsykar)
 28. Anup Muttha - [@Anupbhau652](https://github.com/Anupbhau652)
 29. Rohan Shirsat - [@rohanshirsat31](https://github.com/rohanshirsat31)
-30. Sanjana Kolambe - [@ksanjana16](https://github.com/ksanjana16)
 
 ### Steps to follow to contribute to this repository
 
