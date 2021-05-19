@@ -152,6 +152,25 @@ def circumferenceofcircle(r):
 
 ###############################
 
+def factorial(n):
+    
+    '''
+    calculates factorial
+    input: non negative integer
+    output: factorial of input
+    '''
+    
+    if n<0:
+        return 'Not defined for negative number'
+    if n==0:
+        return 1
+    else:
+        x= n*factorial(n-1)
+        return x
+    
+###############################    
+    
+
 
 
 

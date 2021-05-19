@@ -48,7 +48,11 @@
                        
 12. `CircumferenceofCircle()` - calculates circumference of circle<br>
                                 input- radius of circle<br>
-                                output- circumference of circle.                          
+                                output- circumference of circle.
+                                
+13. `Factorial()` - calculates factorial<br>
+                    input- non negative integer<br>
+                    output- factorial of input
                  
                  
                   
