@@ -45,7 +45,10 @@
 11. `AreaofCircle()` - calculates area of a circle <br>
                        input-radius of circle<br>
                        output-area of circle.
-                           
+                       
+12. `CircumferenceofCircle()` - calculates circumference of circle<br>
+                                input- radius of circle<br>
+                                output- circumference of circle.                          
                  
                  
                   
