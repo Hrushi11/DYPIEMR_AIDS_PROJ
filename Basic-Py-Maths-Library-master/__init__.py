@@ -140,6 +140,19 @@ def areaofcircle(r):
 
 ###############################
 
+def circumferenceofcircle(r):
+    """
+    calculates circumference of circle
+    input:radius of circle
+    output:circumference of circle
+    """
+    PI = 3.14159265358
+    cmf = PI*2*r
+    return cmf
+
+###############################
+
+
 
 
 
