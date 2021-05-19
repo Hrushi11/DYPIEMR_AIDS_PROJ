@@ -128,6 +128,32 @@ def Perimeter(a,b,c):
 
 ################################
 
+def areaofcircle(r):
+    """
+    calculates area of a circle 
+    input:radius of circle
+    output:area of circle
+    """
+    PI = 3.14159265358
+    area = PI*(r**2)
+    return area
+
+###############################
+
+def circumferenceofcircle(r):
+    """
+    calculates circumference of circle
+    input:radius of circle
+    output:circumference of circle
+    """
+    PI = 3.14159265358
+    cmf = PI*2*r
+    return cmf
+
+###############################
+
+
+
 
 
 

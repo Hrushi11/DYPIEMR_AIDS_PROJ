@@ -38,9 +38,17 @@
                   input:two numbers -base and index<br> 
                   ouptut- base raised to the index. 
 
-10. `Perimeter(a,b,c)()` - Calculates the perimeter of triangle with user input sides()
-                           input: a,b,c
-                           output: perimeter of triangle
+10. `Perimeter(a,b,c)()` - Calculates the perimeter of triangle with user input sides()<br>
+                           input: a,b,c<br>
+                           output: perimeter of triangle.
+
+11. `AreaofCircle()` - calculates area of a circle <br>
+                       input-radius of circle<br>
+                       output-area of circle.
+                       
+12. `CircumferenceofCircle()` - calculates circumference of circle<br>
+                                input- radius of circle<br>
+                                output- circumference of circle.                          
                  
                  
                   
