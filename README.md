@@ -35,6 +35,7 @@ To contribute to this repo you must be in Artificial Intelligence and Data Scien
 27. Sunny Kumar - [@unnumsykar](https://github.com/unnumsykar)
 28. Anup Muttha - [@Anupbhau652](https://github.com/Anupbhau652)
 29. Rohan Shirsat - [@rohanshirsat31](https://github.com/rohanshirsat31)
+30. AMANPREET SINGH MEHTA - [@amanpreet-5045](https://github.com/amanpreet-5045) 
 
 ### Steps to follow to contribute to this repository
 
