@@ -186,6 +186,12 @@ def fact_loop(num):
     print(factorial)
     
 ################################
+
+def volume_cyl(r, h):
+    return (3.14 * (r**2) * h)
+
+################################
+
     
 
 
