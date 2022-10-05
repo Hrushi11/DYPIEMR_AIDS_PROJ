@@ -192,7 +192,17 @@ def volume_cyl(r, h):
 
 ################################
 
-    
+def log(a):
+    '''
+    A float value, representing the natural logarithm of a number, or the logarithm of number to base 'e'.
+    input : Natural Number
+    output : log value of input
+    '''
+    return(log(a))
+
+################################
+
+
 
 
 
