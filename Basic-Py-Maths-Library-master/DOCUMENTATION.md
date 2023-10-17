@@ -53,7 +53,10 @@
 13. `Factorial()` - calculates factorial<br>
                     input- non negative integer<br>
                     output- factorial of input
-                 
+
+14. 'calculate_age()' - Calculates Age from DAte of birth<br>
+                     input - Date of birtH <br>
+                     output- Age in Years                 
                  
                   
                  
